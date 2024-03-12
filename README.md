@@ -9,9 +9,9 @@ Este enfoque no solo mejora la eficiencia del tráfico sino que también contrib
 - Desarrollar un sistema preciso de detección de vehículos en tiempo real.
 - Implementar un algoritmo de gestión de semáforos que responda dinámicamente al estado del tráfico.
 - Contribuir a los Objetivos de Desarrollo Sostenible (ODS), en especial:
+  - ODS 9: Indústria, Innovación e Infraestructura.
   - ODS 11: Ciudades y comunidades sostenibles.
   - ODS 13: Acción por el clima.
-  - ODS 3: Salud y bienestar.
 
 ## Tecnologías Utilizadas
 - **YOLOv5x** para la detección de vehículos.
